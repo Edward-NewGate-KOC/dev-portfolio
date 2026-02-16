@@ -375,7 +375,7 @@ export const projects: Project[] = [
         title: "Portfolio v2",
         description: "Redesigning this portfolio with new sections, animations, and interactive components. Focusing on performance and accessibility.",
         tech: ["Next.js", "Framer Motion", "Tailwind", "TypeScript"],
-        link: "https://github.com/Edward-NewGate-KOC/Portfolio",
+        link: "https://github.com/Edward-NewGate-KOC/dev-portfolio",
         status: "active" as const,
         progress: 80,
     },
